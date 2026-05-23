@@ -1,15 +1,17 @@
 # Ai_Daily_Doc
 
-AI 数据中心芯片 + HBM + CoWoS 专业日报。
+AI 数据中心芯片 + HBM + 光模块 + CoWoS 专业日报。
 
 ## 最新日报
 
+- [2026-05-23：AI 数据中心芯片 + HBM + 光模块 + CoWoS 日报](reports/2026/2026-05-23-ai-datacenter-chips-hbm-optics-cowos-daily.md)
 - [2026-05-22：AI 数据中心芯片 + HBM + CoWoS 日报](reports/2026/2026-05-22-ai-datacenter-chips-hbm-cowos-daily.md)
 
 ## 覆盖范围
 
 - AI 数据中心芯片：GPU、加速卡、定制 ASIC、网络/CPU 配套平台。
 - HBM：HBM3E、HBM4、HBM4E 的量产、规格、供需与客户验证进展。
+- 光模块/硅光：800G/1.6T 可插拔光模块、CPO/NPO、外置激光、DSP、OCS 与 AI 网络升级。
 - CoWoS：TSMC CoWoS/SoIC/SoW、2.5D/3.5D 封装、产能、良率与路线图。
 
 ## 日报方法
