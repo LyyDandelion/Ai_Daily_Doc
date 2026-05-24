@@ -1,7 +1,7 @@
 # 2026-05-24 AI 数据中心芯片 + HBM + 光模块 + CoWoS 日报
 
-> 生成时间：2026-05-24 01:28 UTC  
-> 覆盖范围：AI 数据中心 GPU/ASIC/CPU、HBM3E/HBM4/HBM4E、光模块/硅光/CPO、CoWoS/SoIC/先进封装  
+> 生成时间：2026-05-24 01:28 UTC
+> 覆盖范围：AI 数据中心 GPU/ASIC/CPU、HBM3E/HBM4/HBM4E、光模块/硅光/CPO、CoWoS/SoIC/先进封装
 > 可信度说明：高 = 官方/财报/SEC/一手材料；中 = 主流媒体/产业研究；低 = 单一供应链传闻
 
 ## 1. 今日核心结论
