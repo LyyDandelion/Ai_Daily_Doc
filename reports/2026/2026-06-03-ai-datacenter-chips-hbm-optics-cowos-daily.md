@@ -102,7 +102,7 @@ AJU Press 报道称，三星已开始向全球客户送样业界首款 12 层 HB
 
 NVIDIA 官方称 Spectrum-X Ethernet Photonics 是基于 CPO 的交换技术，已进入生产，目标是支撑 million-GPU AI factories。官方宣称相较传统 transceiver 网络，Spectrum-X Ethernet Photonics 可实现 5 倍能效、5 倍 AI uptime、1.3 倍更快部署；CoreWeave、Lambda、Oracle Cloud Infrastructure 为首批生态伙伴/采用者。[^nvidia-rubin]
 
-Lambda 则公开展示了 NVIDIA Quantum-X InfiniBand Photonics Q3450-LD CPO 交换机样机：4U、144 x 800G InfiniBand、115.2 Tb/s non-blocking switching capacity、48V DC busbar、液冷双回路、18 个可更换外置光源模块。Lambda 还给出功耗对比：CPO switch 约 3.95 kW，标准 switch 约 7.0 kW，单台节省约 3.05 kW。[^lambda-cpo]
+Lambda 则公开展示了 NVIDIA Quantum-X InfiniBand Photonics Q3450-LD CPO 交换机样机：4U、144 x 800G InfiniBand、115.2 Tb/s non-blocking switching capacity、48V DC busbar、液冷双回路、18 个可更换外置光源模块。Lambda 还给出功耗对比：CPO switch 约 3.95 kW，标准 switch 约 7.0 kW，单台节省约 3.05 kW；SDxCentral 对同一展示的报道也强调其减少传统可插拔收发器、DSP 和激光器数量的潜在能效/可靠性收益。[^lambda-cpo][^sdxcentral-cpo]
 
 **产业解读**：
 
